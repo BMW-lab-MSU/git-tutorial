@@ -1,0 +1,20 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@gitgraph/js": "^1.4.0",
+    "@slidev/cli": "^0.28.7",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "name": "git-tutorial",
+  "devDependencies": {
+    "@iconify-json/dashicons": "^1.1.0",
+    "@iconify-json/noto-v1": "^1.0.1"
+  }
+}
