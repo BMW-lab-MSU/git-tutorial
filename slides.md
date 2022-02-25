@@ -229,7 +229,7 @@ git branch [branch name]
 ```
 - checkout a branch
 ```bash
-git switch -c [branch name]
+git switch [branch name]
 ```
 OR (older way)
 ```bash
