@@ -5,6 +5,8 @@ theme: default
 highlighter: shiki
 # show line numbers in code blocks
 lineNumbers: false
+# presentation title
+title: 'git tutorial'
 # some information about the slides, markdown enabled
 info: |
   Introduction to using git and GitHub
