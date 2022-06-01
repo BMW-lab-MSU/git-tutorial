@@ -325,4 +325,7 @@ https://www.atlassian.com/git/tutorials
 ## git documentation
 https://git-scm.com/doc
 
+## git - the simple guide
+https://rogerdudler.github.io/git-guide/
+
 
