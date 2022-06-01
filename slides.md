@@ -46,27 +46,25 @@ A short introduction
 
 # Version control: naive approach
 
-<v-clicks>
+<div class="grid grid-cols-2 gap-5">
 
-- <carbon-document /> thesis_v1.tex
-- <carbon-document /> thesis_v2.tex
-- <carbon-document /> thesis_v2_bmw_edits.tex
-- <carbon-document /> thesis_final.tex
-- <carbon-document /> thesis_final_final.tex
+<div>
+<img src="/phd101212s.gif" class="w-full h-3/4"/>
+</div>
 
-</v-clicks>
+<div>
 
 <v-clicks>
-
-This is a bit painful, but it works...  We don't have any history of what changes happened in each version, though, which would be nice <noto-v1-thinking-face />
-
-### Now we need to collaborate... 
-
-### over email... <carbon-email /> 
 
 ### <noto-v1-face-screaming-in-fear class="text-6xl" />
 
+This is a bit painful, but it works...  We don't have much history of what changes happened in each version, though, which would be nice <noto-v1-thinking-face />
+
 </v-clicks>
+
+</div>
+
+</div>
 
 ---
 
